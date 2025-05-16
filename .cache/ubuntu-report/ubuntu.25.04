@@ -1,0 +1,70 @@
+{
+  "Version": "25.04",
+  "OEM": {
+    "Vendor": "VMware, Inc.",
+    "Product": "VMware Virtual Platform",
+    "Family": ""
+  },
+  "BIOS": {
+    "Vendor": "Phoenix Technologies LTD",
+    "Version": "6.00"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "15ad",
+      "Model": "0405"
+    }
+  ],
+  "RAM": 3.4,
+  "Disks": [
+    21.5
+  ],
+  "Partitions": [
+    20.5,
+    0.1
+  ],
+  "Screens": [
+    {
+      "Size": "0mmx0mm",
+      "Resolution": "1280x800",
+      "Frequency": "59.81"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "America/New_York",
+  "Install": {
+    "Type": "Flutter",
+    "OEM": false,
+    "Media": "Ubuntu 25.04",
+    "Stages": {
+      "1": "locale",
+      "4": "accessibility",
+      "5": "keyboard",
+      "6": "network",
+      "7": "tryOrInstall",
+      "8": "autoinstall",
+      "10": "sourceSelection",
+      "11": "codecsAndDrivers",
+      "17": "storage",
+      "51": "identity",
+      "119": "timezone",
+      "120": "confirm",
+      "122": "install",
+      "467": "done"
+    },
+    "Language": "en",
+    "Minimal": true,
+    "RestrictedAddons": false,
+    "PartitionMethod": "use_device",
+    "UseActiveDirectory": false
+  }
+}

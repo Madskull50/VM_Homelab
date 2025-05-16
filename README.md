@@ -41,6 +41,12 @@ This project is my personal IT lab environment built using **Ubuntu on VMware Wo
 - Introduce security tools like `fail2ban`, `chkrootkit`, and `clamav`
 - Document vulnerabilities and hardening steps
 
+## 📸 Screenshot
+![IP address output](ip_address_output.png)
+![Custom Bash Script](custom_bash_script.png)
+![Displaying IP Address](Displaying_IP_Address.png)
+![Network Connectivity Test](Network_Connectivity_Test.png)
+![Networking Connectivity test](Networking_Connectivity_test.png)
 ---
 
 ## 📌 Goals

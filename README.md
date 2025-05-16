@@ -17,7 +17,7 @@ This project is my personal IT lab environment built using **Ubuntu on VMware Wo
 
 ## 📂 Included Files
 
-- `update-info.sh` – Bash script to update the system, show IP info, and list users
+- `setup-info.sh` – Bash script to update the system, show IP info, and list users
 - `output.txt` – Sample output from terminal after running the script
 - `commands.txt` – Command history log from this lab session
 

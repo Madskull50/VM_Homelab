@@ -47,6 +47,8 @@ This project is my personal IT lab environment built using **Ubuntu on VMware Wo
 ![Displaying IP Address](Displaying_IP_Address.png)
 ![Network Connectivity Test](Network_Connectivity_Test.png)
 ![Networking Connectivity test](Networking_Connectivity_test.png)
+![Ping Test](screenshots/ping-test.png)  
+*VM1 to VM2 Network Connectivity Test*
 ---
 
 ## 📌 Goals
